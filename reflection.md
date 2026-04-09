@@ -10,8 +10,7 @@ Phụ trách thiết kế logic agent của chatbot và viết system prompt.
 - Test agent trên CLI
 
 ## 3. SPEC mạnh/yếu
-- Mạnh nhất: failure modes — nhóm nghĩ ra được case "triệu chứng chung chung"
-  mà AI gợi ý quá rộng, và có mitigation cụ thể (hỏi thêm câu follow-up)
+- Mạnh nhất: AI product canvas, hữu ích, an toàn và deployable
 - Yếu nhất: 2 feature không có đủ 4 paths trong User Stories
 
 ## 4. Đóng góp khác
